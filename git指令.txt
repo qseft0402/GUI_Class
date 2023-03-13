@@ -1,0 +1,11 @@
+git clone url
+拉檔案
+git add .
+向Local git 新增所有檔案
+git config --global user.email "qseft0402@gamil.com"
+git config --global user.name "qseft0402"
+設定使用者帳戶資訊
+git commit –m "First Commit"
+標記該次Push的註解
+git push -u origin main
+將程式碼Push到GitHub上

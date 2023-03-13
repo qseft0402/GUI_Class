@@ -21,5 +21,12 @@ namespace GUI_Class_0220
         {
 
         }
+
+        private void btn_Button_Click(object sender, EventArgs e)
+        {
+            //MessageBox.Show("我被點擊了");
+            Form form_Button = new Form_Button();
+            form_Button.Show();
+        }
     }
 }
