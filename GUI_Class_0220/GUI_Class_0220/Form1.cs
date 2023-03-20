@@ -28,5 +28,10 @@ namespace GUI_Class_0220
             Form form_Button = new Form_Button();
             form_Button.Show();
         }
+
+        private void btn_Button_Leave(object sender, EventArgs e)
+        {
+            MessageBox.Show("我移開了");
+        }
     }
 }
