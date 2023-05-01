@@ -33,5 +33,11 @@ namespace GUI_Class_0220
         {
             MessageBox.Show("我移開了");
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form form = new Form_FinalGame();
+            form.Show();
+        }
     }
 }
