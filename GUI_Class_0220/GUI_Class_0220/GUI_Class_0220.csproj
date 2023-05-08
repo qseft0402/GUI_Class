@@ -64,6 +64,18 @@
     <Compile Include="Form_FinalGame.Designer.cs">
       <DependentUpon>Form_FinalGame.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form_TextBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_TextBox.Designer.cs">
+      <DependentUpon>Form_TextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Timer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Timer.Designer.cs">
+      <DependentUpon>Form_Timer.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -74,6 +86,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form_FinalGame.resx">
       <DependentUpon>Form_FinalGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_TextBox.resx">
+      <DependentUpon>Form_TextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Timer.resx">
+      <DependentUpon>Form_Timer.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

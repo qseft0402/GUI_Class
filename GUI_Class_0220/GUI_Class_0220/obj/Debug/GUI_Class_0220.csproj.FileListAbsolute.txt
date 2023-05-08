@@ -20,3 +20,5 @@ C:\Users\MEGAS\Desktop\GUI_Class\GUI_Class_0220\GUI_Class_0220\obj\Debug\GUI_Cla
 C:\Users\MEGAS\Desktop\GUI_Class\GUI_Class_0220\GUI_Class_0220\obj\Debug\GUI_Class_0220.pdb
 C:\Users\MEGAS\Desktop\GUI_Class\GUI_Class_0220\GUI_Class_0220\obj\Debug\GUI_Class_0220.Form_Button.resources
 C:\Users\MEGAS\Desktop\GUI_Class\GUI_Class_0220\GUI_Class_0220\obj\Debug\GUI_Class_0220.Form_FinalGame.resources
+C:\Users\MEGAS\Desktop\GUI_Class\GUI_Class_0220\GUI_Class_0220\obj\Debug\GUI_Class_0220.Form_TextBox.resources
+C:\Users\MEGAS\Desktop\GUI_Class\GUI_Class_0220\GUI_Class_0220\obj\Debug\GUI_Class_0220.Form_Timer.resources

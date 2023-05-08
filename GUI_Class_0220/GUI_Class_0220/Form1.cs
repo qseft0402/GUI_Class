@@ -39,5 +39,17 @@ namespace GUI_Class_0220
             Form form = new Form_FinalGame();
             form.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form form = new Form_TextBox();
+            form.Show();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form form = new Form_Timer();
+            form.Show();
+        }
     }
 }
