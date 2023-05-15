@@ -10,25 +10,22 @@ using System.Windows.Forms;
 
 namespace GUI_Class_0220
 {
-    public partial class Form_Timer : Form
+    public partial class Form_CheckBox : Form
     {
-        int second=0;
-        public Form_Timer()
+        public Form_CheckBox()
         {
             InitializeComponent();
         }
 
-        private void timer1_Tick(object sender, EventArgs e)
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
-            
-            label1.Text = this.second + "秒";
-            this.second++;
+            if(checkBox1.Checked)
+                MessageBox.Show(checkBox1.Text+"已被按下!");
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            timer1.Enabled = true;//開啟計數
-            timer1.Enabled = false;//開啟計數
+            
         }
     }
 }
