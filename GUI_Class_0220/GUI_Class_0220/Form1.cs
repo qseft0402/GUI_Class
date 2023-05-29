@@ -63,5 +63,11 @@ namespace GUI_Class_0220
             Form form = new Form_Layout();
             form.Show();
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            Form form = new Form_Panel();
+            form.Show();
+        }
     }
 }

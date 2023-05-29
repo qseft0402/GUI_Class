@@ -24,3 +24,4 @@ C:\Users\MEGAS\Desktop\GUI_Class\GUI_Class_0220\GUI_Class_0220\obj\Debug\GUI_Cla
 C:\Users\MEGAS\Desktop\GUI_Class\GUI_Class_0220\GUI_Class_0220\obj\Debug\GUI_Class_0220.Form_Timer.resources
 C:\Users\MEGAS\Desktop\GUI_Class\GUI_Class_0220\GUI_Class_0220\obj\Debug\GUI_Class_0220.Form_CheckBox.resources
 C:\Users\MEGAS\Desktop\GUI_Class\GUI_Class_0220\GUI_Class_0220\obj\Debug\GUI_Class_0220.Form_Layout.resources
+C:\Users\MEGAS\Desktop\GUI_Class\GUI_Class_0220\GUI_Class_0220\obj\Debug\GUI_Class_0220.Form_Panel.resources
