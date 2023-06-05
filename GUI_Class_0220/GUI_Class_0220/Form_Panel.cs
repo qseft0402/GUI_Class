@@ -7,6 +7,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
+
+
 
 namespace GUI_Class_0220
 {
@@ -15,6 +18,10 @@ namespace GUI_Class_0220
         public Form_Panel()
         {
             InitializeComponent();
+            File.WriteAllText("Temp.txt", "Hello I'm Awen\n");
+            File.AppendAllText("Temp.txt","我是第二行\n");
+            String input=File.ReadAllText("Temp.txt");
+            MessageBox.Show(input);
         }
 
         private void button1_Click(object sender, EventArgs e)
